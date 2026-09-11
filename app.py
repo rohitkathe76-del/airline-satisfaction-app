@@ -23,14 +23,14 @@ st.markdown("""
     }
 
     .main-header {
-        font-size: 2.8rem;
+        font-size: 3.5rem;
         font-weight: 700;
         color: #1E3A5F;
         margin-bottom: 0;
     }
     .sub-header {
         color: #6B7280;
-        font-size: 1.3rem;
+        font-size: 1.6rem;
         margin-bottom: 1.5rem;
     }
     .result-box {
