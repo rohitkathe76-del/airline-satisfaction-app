@@ -2,7 +2,7 @@
 
 A machine learning web application that predicts whether an airline passenger will be **satisfied** or **neutral/dissatisfied** based on their flight experience, service ratings, and demographics.
 
-🔗 **Live App:** [Add your Streamlit link here once deployed]
+🔗 **Live App:** https://rohitkathe76-del-airline-satisfaction-app-app-wetpk3.streamlit.app/
 
 ## 📌 Overview
 
